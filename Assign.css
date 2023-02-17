@@ -1,9 +1,6 @@
 body {
     background-color: #6ca0c9;
 }
-h1{
-    color:aqua;
-}
 p{
    text-align: center;
    color:  #FFFFFF;
@@ -14,8 +11,8 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 img{
-    width: 350px;
-    height: 350px;
+    width: 380px;
+    height: 380px;
     border-radius: 50%;
 }
 tr{
